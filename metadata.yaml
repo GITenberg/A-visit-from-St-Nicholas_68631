@@ -10,6 +10,9 @@ contributor:
     agent_name: Ivins, Florence Wyman
     gutenberg_agent_id: '54873'
     url: http://www.gutenberg.org/2009/agents/54873
+covers:
+- cover_type: archival
+  image_path: 68631-h/images/cover.jpg
 creator:
   author:
     agent_name: Moore, Clement Clarke
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7157
     wikipedia: http://en.wikipedia.org/wiki/Clement_Clarke_Moore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68631#A-visit-from-St-Nicholas
 gutenberg_issued: '2022-07-28'
 identifiers:
   gutenberg: '68631'
